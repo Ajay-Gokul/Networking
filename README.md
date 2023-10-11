@@ -7,7 +7,10 @@ Network is a collection of network enabled devices made of computers, switches, 
 **Types of Networks**
 
 *PAN
+
 *WAN
+
 *MAN
+
 *LAN
 
