@@ -8,7 +8,7 @@ Network is a collection of network enabled devices made of computers, switches, 
 
 * PAN - Personal Area Network
 
- Provides network around an individual, Example - Bluetooth devices. 
+  Provides network around an individual, Example - Bluetooth devices. 
 
 * WAN - Wide Area Network
 
@@ -16,5 +16,5 @@ Network is a collection of network enabled devices made of computers, switches, 
 
 * LAN - Local Area Network
 
-   Provides network around an single location like office and schools, Most Used.
+  Provides network around an single location like office and schools, Most Used.
 
