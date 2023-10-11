@@ -14,6 +14,8 @@ Network is a collection of network enabled devices made of computers, switches, 
 
 * MAN - Metropolitan Area Network
 
+  Provides network around two different cities provided by a collection of LAN.
+
 * LAN - Local Area Network
 
   Provides network around an single location like office and schools, Needs authentication and authorization to be accessed, Mostly Used.
