@@ -6,11 +6,11 @@ Network is a collection of network enabled devices made of computers, switches, 
 
 **Types of Networks**
 
-* PAN
+* PAN - Personal Area Network
 
-* WAN
+* WAN - Wide Area Network
 
-* MAN
+* MAN - Metropolitan Area Network
 
-* LAN
+* LAN - Local Area Network
 
